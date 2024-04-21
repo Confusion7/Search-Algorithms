@@ -115,20 +115,18 @@ else:
 
 ### LINEAR SEARCH
 
-![pythonexp7i](https://github.com/Confusion7/Search-Algorithms/assets/141727149/1a290d35-0128-44c1-97d7-477749efb43e)
+![Error](pythonexp7i.png)
 
 
 
 ### BINARY SEARCH (USING ITERATIVE METHOD)
 
-![pythonexp7ii](https://github.com/Confusion7/Search-Algorithms/assets/141727149/05112163-41a9-4135-99ab-7a982ef62a18)
-
+![Error](pythonexp7ii.png)
 
 
 ### BINARY SEARCH (USING RECURSIVE METHOD)
 
-![pythonexp7iii](https://github.com/Confusion7/Search-Algorithms/assets/141727149/bdbe40ea-0ac8-4aa7-8f51-6f470f84e058)
-
+![Error](pythonexp7iii.png)
 
 
 
